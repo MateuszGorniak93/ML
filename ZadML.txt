@@ -1,0 +1,11 @@
+Stwórz model klasyfikacji dla dowolnego zbioru danych (np. zbiór iris).
+Sugerowane języki programowania to Python/JAVA biblioteka Keras/Tensorflow.
+
+
+Rozwiązanie przekleić do COLAB:
+https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=uST5m7phRYQS
+
+Do rozwiązania zadania korzystałem z wiedzy i materiałów ze str:
+https://keras.io/api/
+https://www.youtube.com/watch?v=tPYj3fFJGjk&ab_channel=freeCodeCamp.org
+
